@@ -14,3 +14,5 @@ Ex1_3-URLify.cpp - Algorithm to add '%20' for every space in a string
 Ex1_3-URLify.py - Algorithm to add '%20' for every space in a string
 
 Ex1_4-PalindromePermutation.cpp - Algorithm to check if the permutation of a string is a palindrome
+
+Ex1_4-PalindromePermutation.py - Algorithm to check if the permutation of a string is a palindrome
