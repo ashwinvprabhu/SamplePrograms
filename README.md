@@ -16,3 +16,17 @@ Ex1_3-URLify.py - Algorithm to add '%20' for every space in a string
 Ex1_4-PalindromePermutation.cpp - Algorithm to check if the permutation of a string is a palindrome
 
 Ex1_4-PalindromePermutation.py - Algorithm to check if the permutation of a string is a palindrome
+
+Ex1_5OneEditAway.cpp - Algorithm to check if two strings are one edit away from each other
+
+Ex1_5OneEditAway.py - Algorithm to check if two strings are one edit away from each other
+
+Ex1_6StringCompression.cpp - Algorithm for string compression
+
+Ex1_6StringCompression.py - Algorithm for string compression
+
+Ex1_8ZeroMatrix.cpp
+
+Ex1_9StringRotation.py
+
+Ex2_1-2_4.cpp - Linked list chapter Exercises 2.1 to 2.4
